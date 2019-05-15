@@ -1,0 +1,10 @@
+body{
+background-color: black;
+color: white;
+}
+
+.info{
+margin: auto;
+background-color : red;
+width : 70%;
+border-radius: 4px;}
